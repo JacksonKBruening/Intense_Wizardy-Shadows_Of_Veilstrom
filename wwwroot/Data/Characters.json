@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Athene",
+    "age": 23,
+    "race": "Human",
+    "img": "https://user-images.githubusercontent.com/85266719/122581198-6bbad480-d01c-11eb-986f-768d195b11e5.png",
+    "backstory": ""
+  },
+  {
+    "name": "Demeter",
+    "age": 23,
+    "race": "Human",
+    "img": "https://user-images.githubusercontent.com/85266719/122581486-b6d4e780-d01c-11eb-87f1-c69ea8673d15.png",
+    "backstory": ""
+  },
+  {
+    "name": "Skipper",
+    "age": 30,
+    "race": "Dragonborne",
+    "img": "https://user-images.githubusercontent.com/85266719/122582371-b557ef00-d01d-11eb-829c-e6ccc8a16f63.png",
+    "backstory": ""
+  },
+  {
+    "name": "Blue",
+    "age": 23,
+    "race": "Water Gensai",
+    "img": "https://user-images.githubusercontent.com/85266719/122582747-1e3f6700-d01e-11eb-8afd-ed7b686af71a.png",
+    "backstory": ""
+  },
+  {
+    "name": "Torwen",
+    "age": 23,
+    "race": "Half-Elf",
+    "img": "https://user-images.githubusercontent.com/85266719/122604560-c1eb4000-d03b-11eb-91cd-6ab58e99bbee.png",
+    "backstory": ""
+  },
+  {
+    "name": "RN-09",
+    "age": 5,
+    "race": "Warforged",
+    "img": "https://user-images.githubusercontent.com/85266719/122583780-3a8fd380-d01f-11eb-854a-58128d290af9.png",
+    "backstory": ""
+  },
+  {
+    "name": "Manfred",
+    "age": 25,
+    "race": "Human",
+    "img": "https://user-images.githubusercontent.com/85266719/122581842-16cb8e00-d01d-11eb-84d8-26e95f991741.png",
+    "backstory": ""
+  },
+  {
+    "name": "Velliah",
+    "age": 23,
+    "race": "Tiefling",
+    "img": "https://user-images.githubusercontent.com/85266719/122583353-bf2e2200-d01e-11eb-9f59-871bf7b40d91.png",
+    "backstory": ""
+  },
+  {
+    "name": "Thomas",
+    "age": 33,
+    "race": "Elf",
+    "img": "https://user-images.githubusercontent.com/85266719/122585232-e4bc2b00-d020-11eb-9ae9-0a1320127703.png",
+    "backstory": ""
+  }
+]
